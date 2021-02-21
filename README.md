@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
 - 😄 Pronouns: he/him
-<!-- - ⚡ Fun fact: This is long: -->
+  
+- ⚡ Fun fact: When i'm not coding, I do alot of things
+  - Play guitar or Synthesizer
+  - Explore the Outlands in Apex Legends
+  - Play Cricket!!
 
 
 [![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharYaar&show_icons=true&theme=vision-friendly-dark)](https://github.com/TusharYaar/github-readme-stats)
