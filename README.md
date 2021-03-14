@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 -->
+
+  ![visitor](https://visitor-badge.glitch.me/badge?page_id=TusharYaar.TusharYaar)  
+
 - 🔭 I’m currently working on 
   - SitePalette
   - My Portfolio
