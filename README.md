@@ -6,20 +6,20 @@
 Here are some ideas to get you started:
 -->
 
+### Check my [Portfolio](https://tusharyaar.netlify.app)
+
   ![visitor](https://visitor-badge.glitch.me/badge?page_id=TusharYaar.TusharYaar)  
 
 - 🔭 I’m currently working on 
   - SitePalette
-  - My Portfolio
   - My Profile Readme
 - 🌱 I’m currently learning
   - React
   - Java
-  - Python
 - 👯 I’m looking to collaborate on
   - A professional web dev project
 - 🤔 I’m looking for help with 
-  - Python OpenCV library
+  - getting started with open source
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
 - 😄 Pronouns: he/him
