@@ -6,16 +6,14 @@
 Here are some ideas to get you started:
 -->
 
-### Check my [Portfolio](https://tusharyaar.netlify.app)
+### Check my [Portfolio](https://www.tusharyaar.me)
 
   ![visitor](https://visitor-badge.glitch.me/badge?page_id=TusharYaar.TusharYaar)  
 
 - 🔭 I’m currently working on 
-  - SitePalette
-  - My Profile Readme
+  - Competitive Programming
 - 🌱 I’m currently learning
-  - React
-  - Java
+  - React Native
 - 👯 I’m looking to collaborate on
   - A professional web dev project
 - 🤔 I’m looking for help with 
@@ -24,10 +22,7 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me:  -->
 - 😄 Pronouns: he/him
   
-- ⚡ Fun fact: When i'm not coding, I do alot of things
-  - Play guitar or Synthesizer
-  - Explore the Outlands in Apex Legends
-  - Play Cricket!!
+- ⚡ Fun fact: When i'm not coding, I play guitar and Synthesizer
 
 
 [![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharYaar&show_icons=true&theme=vision-friendly-dark)](https://github.com/TusharYaar/github-readme-stats)
