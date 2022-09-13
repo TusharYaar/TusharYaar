@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tushar
+# Hi there 👋, I'm Tushar (aka TusharYaar). I am a final year student, on vacation. I will be joining Oracle in January 2023. I grew up in Jabalpur, Madhya Pradesh. 
 
 <!--
 **TusharYaar/TusharYaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,16 +6,18 @@
 Here are some ideas to get you started:
 -->
 
-### Check my [Portfolio](https://tusharyaar.netlify.app)
+### Check my [Portfolio](https://tusharyaar.com)
 
   ![visitor](https://visitor-badge.glitch.me/badge?page_id=TusharYaar.TusharYaar)  
 
 - 🔭 I’m currently working on 
-  - SitePalette
-  - My Profile Readme
+  - Migrating Apps from Heroku
+  - Electron App to make mock server
+  - Portfolio V3
 - 🌱 I’m currently learning
-  - React
-  - Java
+  - Docker
+  - Electron 
+  - Rust
 - 👯 I’m looking to collaborate on
   - A professional web dev project
 - 🤔 I’m looking for help with 
