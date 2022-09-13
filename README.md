@@ -1,4 +1,9 @@
-# Hi there 👋, I'm Tushar (aka TusharYaar). I am a final year student, on vacation. I will be joining Oracle in January 2023. I grew up in Jabalpur, Madhya Pradesh. 
+# Hi there 👋, I'm Tushar (aka TusharYaar). 
+
+### I am a final year student, on vacation. I will be joining Oracle in January 2023. 
+
+
+
 
 <!--
 **TusharYaar/TusharYaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
