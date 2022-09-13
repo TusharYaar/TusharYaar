@@ -26,10 +26,7 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me:  -->
 - 😄 Pronouns: he/him
   
-- ⚡ Fun fact: When i'm not coding, I do alot of things
-  - Play guitar or Synthesizer
-  - Explore the Outlands in Apex Legends
-  - Play Cricket!!
+- ⚡ Fun fact: When i'm not coding, I play guitar and Synthesizer
 
 
 [![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharYaar&show_icons=true&theme=vision-friendly-dark)](https://github.com/TusharYaar/github-readme-stats)
