@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tushar (aka TusharYaar). 
 
-### I am a final year student, on vacation. I will be joining Oracle in January 2023. 
+### I work at oracle as a software devloper
 
 
 
@@ -24,10 +24,12 @@ Here are some ideas to get you started:
   - Electron 
   - Rust
 - 👯 I’m looking to collaborate on
-  - A professional web dev project
+  - A professional project
 - 🤔 I’m looking for help with 
   - getting started with open source
-<!-- - 💬 Ask me about ... -->
+- 💬 Ask me about ...
+  - Where i'm travelling next
+  - 
 <!-- - 📫 How to reach me:  -->
 - 😄 Pronouns: he/him
   
